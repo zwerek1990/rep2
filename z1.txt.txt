@@ -1,2 +1,2 @@
 z1 file
-test1
+test0
