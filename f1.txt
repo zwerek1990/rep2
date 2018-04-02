@@ -1,6 +1,0 @@
-f1 file
-working
-...
-edit
-...
-ending
